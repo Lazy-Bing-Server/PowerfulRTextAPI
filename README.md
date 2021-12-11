@@ -6,4 +6,6 @@ An extension for RText in MCDReforged.
 
 ## Requirements
 
-MCDReforged >= 2.0.0
+Any version of MCDReforged
+
+If MCDReforged.
