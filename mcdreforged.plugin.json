@@ -1,16 +1,17 @@
 {
-    "id": "my_plugin",
-    "version": "1.0.0",
-    "name": "My Plugin",
-    "description": "This description is a description to your plugin",
+    "id": "powerful_rtext_api",
+    "version": "0.1.0",
+    "name": "Powerful RText API",
+    "description": "An RText extension",
     "author": [
-        "You"
+        "Ra1ny_Yuki"
     ],
-    "link": "https://github.com/MCDReforged/MCDReforged-PluginTemplate",
+    "link": "https://github.com/Lazy-Bing-Server/PowerfulRTextAPI",
     "dependencies": {
+        "mcdreforged": ">=2.0.0"
     },
 
     "resources": [
-        "lang"
+        "requirements.txt"
     ]
 }

@@ -1,8 +1,9 @@
-MCDReforged Plugin Template
------
+English | 中文
 
-A template for MCDReforged (>=2.x) plugin
+# Powerful RText API
 
-Try `python -m mcdreforged pack` to generate the packed plugin!
+An extension for RText in MCDReforged.
 
-This template is under the CC0 license. Feel free to use it!
+## Requirements
+
+MCDReforged >= 2.0.0
